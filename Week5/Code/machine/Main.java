@@ -1,6 +1,5 @@
 package machine;
 
-import javafx.scene.transform.Scale;
 
 import java.util.Scanner;
 
